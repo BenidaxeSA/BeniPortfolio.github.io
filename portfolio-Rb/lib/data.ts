@@ -51,12 +51,12 @@ export const projectsData = [
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
-    description:
-      "Petit site de recherche d’emplois pour développeurs en télétravail. J’ai développé le front-end avec des fonctionnalités simples comme le filtrage, le tri et la pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
-  },
+  title: "Analyse des ventes voiture 2025",
+  description:
+    "Projet Power BI centré sur l’analyse des performances commerciales du secteur automobile pour l’année 2025. Création de tableaux de bord dynamiques et interactifs permettant de suivre les ventes, les marges, les modèles les plus performants et les tendances régionales. Utilisation de DAX pour les mesures personnalisées et d’optimisation des indicateurs clés.",
+  tags: ["Power BI", "DAX", "SQL", "Data Visualization", "Business Intelligence"],
+  imageUrl: analyseVenteVoitureImg,
+},
   {
     title: "Projets Personnels & Futurs Lancements",
     description:
