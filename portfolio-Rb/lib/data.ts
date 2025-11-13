@@ -16,11 +16,11 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
-  {
-    title: "Support IT N1/N2",
+ {
+    title: "Support IT / Data operators",
     location: "BAO | CDD",
     description:
-      "Suivi et sécurisation des flux financiers et des bases de données sensibles. Supervision de +50 postes et serveurs. Mise en place d'outils de monitoring et reporting, améliorant la fiabilité des données de 30%.",
+      "Suivi et sécurisation des flux financiers et des bases de données sensibles. Supervision de +50 postes et serveurs.Mise en place d’outils de pilotage et d’analyse via SQL et Power BI, incluant la création de plusieurs tableaux de bord interactifs pour le suivi des indicateurs clés et mise en place d'outils de monitoring et reporting, améliorant la fiabilité des données de 30%.",
     icon: React.createElement(CgWorkAlt),
     date: "02/2025 - 08/2025",
   },
