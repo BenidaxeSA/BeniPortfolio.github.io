@@ -50,12 +50,12 @@ export const projectsData = [
     tags: ["Python", "BeautifulSoup", "Pandas"],
     imageUrl: corpcommentImg,
   },
-  {
+{
   title: "Analyse des ventes voiture 2025",
   description:
-    "Projet Power BI centré sur l’analyse des performances commerciales du secteur automobile pour l’année 2025. Création de tableaux de bord dynamiques et interactifs permettant de suivre les ventes, les marges, les modèles les plus performants et les tendances régionales. Utilisation de DAX pour les mesures personnalisées et d’optimisation des indicateurs clés.",
-  tags: ["Power BI", "DAX", "SQL", "Data Visualization", "Business Intelligence"],
-  imageUrl: analyseVenteVoitureImg,
+    "Projet Power BI dédié à l’analyse des ventes automobiles pour l’année 2025. Conception de tableaux de bord interactifs pour le suivi des performances commerciales, des marges et des tendances régionales. Utilisation de SQL pour la préparation des données et de DAX pour la création de mesures et indicateurs dynamiques.",
+  tags: ["Power BI", "DAX", "SQL", "Data Analysis", "Data Visualization"],
+  imageUrl: rmtdevImg,
 },
   {
     title: "Projets Personnels & Futurs Lancements",
