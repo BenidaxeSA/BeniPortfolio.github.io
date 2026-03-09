@@ -16,27 +16,35 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
- {
-    title: "Support IT / Data operators",
-    location: "BAO | CDD",
+  {
+    title: "Data Engineer / Data Analyst (Freelance)",
+    location: "Benidaxe",
     description:
-      "Suivi et sécurisation des flux financiers et des bases de données sensibles. Supervision de +50 postes et serveurs.Mise en place d’outils de pilotage et d’analyse via SQL et Power BI, incluant la création de plusieurs tableaux de bord interactifs pour le suivi des indicateurs clés et mise en place d'outils de monitoring et reporting, améliorant la fiabilité des données de 30%.",
+      "Conception et modélisation de bases de données SQL pour des projets data. Mise en place de pipelines ETL automatisés en Python pour la collecte et la transformation de données. Développement de dashboards interactifs Power BI avec DAX pour le suivi des KPI et l'aide à la décision. Analyse des tunnels de conversion et mise en place d'A/B testing pour améliorer la performance produit.",
     icon: React.createElement(CgWorkAlt),
-    date: "02/2025 - 08/2025",
+    date: "12/2025 - Aujourd’hui",
   },
   {
-    title: "Gestionnaire Support IT",
+    title: "Data Analyst / Data Operations",
+    location: "BAO Retail | CDD",
+    description:
+      "Préparation et structuration de données pour l’aide à la décision commerciale et tarifaire. Automatisation de pipelines de données avec Python et SQL. Mise en place de contrôles qualité et nettoyage automatisé des données permettant d'améliorer la fiabilité des datasets de +25%. Création d’indicateurs de performance et de KPI prédictifs pour le pilotage de l’activité.",
+    icon: React.createElement(CgWorkAlt),
+    date: "12/2024 - 11/2025",
+  },
+  {
+    title: "Gestionnaire Support IT & Data",
     location: "BCICDD",
     description:
-      "Gestion des incidents utilisateurs via ITIL et supervision (Zabbix). Maintenance et déploiement de serveurs Windows Server/Linux Ubuntu. Support technique sur 100+ postes et requêtes SQL pour la base clients.",
+      "Support technique et gestion des incidents via méthodologie ITIL. Supervision d’infrastructures et maintenance de serveurs Windows Server et Linux Ubuntu. Gestion et requêtes SQL sur les bases clients et support de plus de 100 postes utilisateurs. Mise en place d’outils de monitoring et amélioration de la disponibilité des systèmes.",
     icon: React.createElement(CgWorkAlt),
     date: "10/2022 - 06/2024",
   },
   {
-     title: "Mastère Spécialisation Ingénierie Data & IA (En cours)",
+    title: "Mastère Ingénierie Data & Intelligence Artificielle",
     location: "ECE, Paris",
     description:
-      "Spécialisation en Ingénierie des données, Big Data, Machine Learning. Projets: modèles de scoring, conception de dashboards BI, gouvernance de la donnée.",
+      "Spécialisation en Data Engineering, Big Data et Machine Learning. Projets autour de la modélisation de données, du développement de pipelines data et de la création de dashboards décisionnels.",
     icon: React.createElement(LuGraduationCap),
     date: "2025 - 2027 (En cours)",
   },
