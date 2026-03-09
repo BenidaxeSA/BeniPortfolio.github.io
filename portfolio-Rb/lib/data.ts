@@ -33,20 +33,20 @@ export const experiencesData = [
     date: "12/2024 - 11/2025",
   },
   {
-    title: "Gestionnaire Support IT & Data",
-    location: "BCICDD",
+    title: "Master 2 – Manager Data Marketing",
+    location: "INSEEC, Paris",
     description:
-      "Support technique et gestion des incidents via méthodologie ITIL. Supervision d’infrastructures et maintenance de serveurs Windows Server et Linux Ubuntu. Gestion et requêtes SQL sur les bases clients et support de plus de 100 postes utilisateurs. Mise en place d’outils de monitoring et amélioration de la disponibilité des systèmes.",
-    icon: React.createElement(CgWorkAlt),
-    date: "10/2022 - 06/2024",
+      "Spécialisation en analyse de données, data visualisation et marketing data-driven. Formation axée sur l’analyse de performance, l’expérience client et le data storytelling.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2026 - 2027 (En cours)",
   },
   {
-    title: "Mastère Ingénierie Data & Intelligence Artificielle",
-    location: "ECE, Paris",
+    title: "Master 1 – Expert Réseaux & Cybersécurité",
+    location: "IRIS, Paris",
     description:
-      "Spécialisation en Data Engineering, Big Data et Machine Learning. Projets autour de la modélisation de données, du développement de pipelines data et de la création de dashboards décisionnels.",
+      "Formation en infrastructures IT, administration systèmes et réseaux, cybersécurité et environnements Linux / Windows.",
     icon: React.createElement(LuGraduationCap),
-    date: "2025 - 2027 (En cours)",
+    date: "2024 - 2025",
   },
 ] as const;
 
